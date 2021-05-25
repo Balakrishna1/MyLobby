@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Room" transform="translate(12933 9341)">
+    <g id="door" transform="translate(-12936 -9344)">
+      <path id="Path_4340" data-name="Path 4340" d="M24.385,25.154h-.923V4.846A1.846,1.846,0,0,0,21.615,3H8.692A1.846,1.846,0,0,0,6.846,4.846V25.154H5.923a.923.923,0,1,0,0,1.846H24.385a.923.923,0,0,0,0-1.846ZM8.692,4.846H21.615V25.154H8.692Z" transform="translate(0 0)" fill="#333"/>
+      <path id="Path_4341" data-name="Path 4341" d="M12.769,14H10.923a.923.923,0,1,0,0,1.846h1.846a.923.923,0,1,0,0-1.846Z" transform="translate(-0.385 -0.846)" fill="#333"/>
+    </g>
+    <rect id="Rectangle_2135" data-name="Rectangle 2135" width="24" height="24" transform="translate(-12933 -9341)" fill="none"/>
+  </g>
+</svg>

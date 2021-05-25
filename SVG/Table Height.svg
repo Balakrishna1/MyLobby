@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Table_Height" data-name="Table Height" transform="translate(12974 9233)" style="isolation: isolate">
+    <path id="Path_38164" data-name="Path 38164" d="M0,0H24V24H0Z" transform="translate(-12974 -9233)" fill="none"/>
+    <g id="scale" transform="translate(-13022.333 -9233)">
+      <g id="Group_4290" data-name="Group 4290" transform="translate(50.333)">
+        <g id="Group_4289" data-name="Group 4289" transform="translate(0)">
+          <path id="Path_38165" data-name="Path 38165" d="M58.583.013h-7.5a.75.75,0,0,0-.75.75v22.5a.75.75,0,0,0,.75.75h7.5a.75.75,0,0,0,.75-.75V.763A.75.75,0,0,0,58.583.013Zm-.75,22.5h-6v-2.25h3.75v-1.5h-3.75v-2.25h2.25v-1.5h-2.25v-2.25h3.75v-1.5h-3.75V9.013h2.25v-1.5h-2.25V5.263h3.75v-1.5h-3.75V1.513h6Z" transform="translate(-50.333 -0.012)" fill="#333"/>
+          <path id="Path_38166" data-name="Path 38166" d="M286.48,18.975,284,21.442V2.558l2.468,2.467,1.057-1.057L283.78.218a.75.75,0,0,0-1.058,0l-3.75,3.75,1.057,1.057L282.5,2.558V21.442l-2.467-2.467-1.058,1.057,3.75,3.75a.75.75,0,0,0,1.057,0l3.75-3.75Z" transform="translate(-268.256 0)" fill="#333"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
